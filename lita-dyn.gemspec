@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-dyn"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Ben Haan"]
   spec.email         = ["benhaan@gmail.com"]
   spec.description   = 'A Lita handler to interact with Dyn'
